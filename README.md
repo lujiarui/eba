@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Energy-based Alignment (EBA)
+# Energy-based Alignment (ICML 2025)
 
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
 [![arXiv](http://img.shields.io/badge/arxiv.2505.24203-B31B1B.svg)](https://arxiv.org/abs/2505.24203)
@@ -10,12 +10,14 @@
 
 </div>
 
+The official repository of paper [Aligning Protein Conformation Ensemble Generation with Physical Feedback](https://arxiv.org/abs/2505.24203) published in ICML 2025. 
 
 <p align="center">
 <img src="assets/illustration.png" width="600"/>
 </p>
 
-Energy-based Alignment (EBA) is an efficient method that aligns generative models with feedback from physical models, calibrating them to appropriately balance conformational states based on their energy differences. Experimental results on the MD ensemble benchmark demonstrate that EBA achieves state-of-the-art performance in generating high-quality protein ensembles.
+
+Energy-based Alignment (EBA) is an efficient method that aligns generative models with feedback from physical models, calibrating them to appropriately balance conformational states based on their energy differences. Experimental results on the MD ensemble benchmark demonstrate that EBA achieves state-of-the-art performance in generating high-quality protein ensembles. 
 
 
 ## Installation
