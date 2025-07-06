@@ -1,0 +1,8 @@
+"entity_1_id","chain_1_id","mol_1_type","cluster_1_id","entity_2_id","chain_2_id","mol_2_type","cluster_2_id","cluster_id","pdb_id","assembly_id","release_date","num_tokens","num_prot_chains","resolution","type","mol_type_group","sub_mol_1_type","sub_mol_2_type","eval_type"
+"1","A0","prot","NotInClusterTxt","","","","","NotInClusterTxt","4mmj_A_0","","9999-12-31",95,1,-1.0,"chain","intra_prot","prot","","intra_prot"
+"1","F0","prot","NotInClusterTxt","","","","","NotInClusterTxt","2wnp_F_0","","9999-12-31",217,1,-1.0,"chain","intra_prot","prot","","intra_prot"
+"1","O0","prot","NotInClusterTxt","","","","","NotInClusterTxt","2i5v_O_0","","9999-12-31",251,1,-1.0,"chain","intra_prot","prot","","intra_prot"
+"1","A0","prot","NotInClusterTxt","","","","","NotInClusterTxt","4ew5_A_0","","9999-12-31",102,1,-1.0,"chain","intra_prot","prot","","intra_prot"
+"1","A0","prot","NotInClusterTxt","","","","","NotInClusterTxt","4ezi_A_0","","9999-12-31",377,1,-1.0,"chain","intra_prot","prot","","intra_prot"
+"1","A0","prot","NotInClusterTxt","","","","","NotInClusterTxt","2wr8_A_0","","9999-12-31",259,1,-1.0,"chain","intra_prot","prot","","intra_prot"
+"1","A0","prot","NotInClusterTxt","","","","","NotInClusterTxt","1pv5_A_0","","9999-12-31",264,1,-1.0,"chain","intra_prot","prot","","intra_prot"
